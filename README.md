@@ -44,6 +44,9 @@
 
 🔐 Login page (admin dashboard):  
 [https://statuesque-monstera-296d0c.netlify.app/quiz-login](https://statuesque-monstera-296d0c.netlify.app/quiz-login)
+- For testing use :
+  - Email: yasmeen@gmail.com
+  - password: 1234
 
 ---
 
