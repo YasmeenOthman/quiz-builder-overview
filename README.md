@@ -8,8 +8,8 @@
 
 | Module                | Description                              | GitHub Repo                                                                 |
 |-----------------------|------------------------------------------|------------------------------------------------------------------------------|
-| Admin Dashboard       | Admins can create, edit, publish quizzes | [quiz-admin-dashboard](https://github.com/YasmeenOthman/quiz-admin-dashboard) |
-| Learner Dashboard     | Learners can take quizzes                | [quiz-learner-dashboard](https://github.com/YasmeenOthman/quiz-learner-dashboard) |
+| Admin Dashboard  (almost completed)     | Admins can create, edit, publish quizzes | [quiz-admin-dashboard](https://github.com/YasmeenOthman/quiz-admin-dashboard) |
+| Learner Dashboard  (under constructions)   | Learners can take quizzes                | [quiz-learner-dashboard](https://github.com/YasmeenOthman/quiz-learner-dashboard) |
 | Backend Server        | Node.js API server for both dashboards   | [quiz-builder-backend](https://github.com/YasmeenOthman/quiz-builder-backend) |
 
 ---
